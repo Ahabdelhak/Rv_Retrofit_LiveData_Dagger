@@ -1,7 +1,7 @@
-package com.example.rv_retrofit_livedata.Dagger
+package com.example.rv_retrofit_livedata.Network
 
+import com.example.rv_retrofit_livedata.Dagger.DaggerApiComponent
 import com.example.rv_retrofit_livedata.Model.Data
-import com.example.rv_retrofit_livedata.Network.UsersApi
 import io.reactivex.Single
 import javax.inject.Inject
 

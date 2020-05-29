@@ -1,6 +1,5 @@
 package com.example.rv_retrofit_livedata.Network
 
-import com.example.rv_retrofit_livedata.Dagger.UsersService
 import dagger.Module
 import dagger.Provides
 import retrofit2.Retrofit

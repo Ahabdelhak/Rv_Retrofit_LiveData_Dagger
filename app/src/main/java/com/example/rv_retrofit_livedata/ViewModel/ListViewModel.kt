@@ -4,7 +4,7 @@ import android.util.Log
 import androidx.lifecycle.MutableLiveData
 import androidx.lifecycle.ViewModel
 import com.example.rv_retrofit_livedata.Dagger.DaggerApiComponent
-import com.example.rv_retrofit_livedata.Dagger.UsersService
+import com.example.rv_retrofit_livedata.Network.UsersService
 import com.example.rv_retrofit_livedata.Model.Data
 import com.example.rv_retrofit_livedata.Model.User
 import io.reactivex.android.schedulers.AndroidSchedulers
